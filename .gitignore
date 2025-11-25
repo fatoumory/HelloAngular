@@ -41,3 +41,11 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+#Fichiers temporaires
+.git
+.github
+.gitconfig
+
+# Le fichier ou dossier que Git te signale (ici 'git')
+git
